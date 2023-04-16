@@ -1,4 +1,7 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=leejinagood_Github&fontSize=70" />
+
+
+
 
 <!--
 **leejinagood/leejinagood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
