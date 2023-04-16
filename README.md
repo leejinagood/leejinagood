@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejinagood)](https://github.com/leejinagood/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejinagood)](https://github.com/leejinagood/github-readme-stats)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejinagood)]([벨로그링크](https://velog.io/@leejinagood/%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-1))
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejinagood)]([벨로그링크](https://velog.io/@leejinagood/%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-1)) ➡️ <a href="https://velog.io/@leejinagood">벨로그 링크</a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
