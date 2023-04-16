@@ -1,7 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=leejinagood_Github&fontSize=70" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejinagood)](https://github.com/leejinagood/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leejinagood)](https://github.com/leejinagood/github-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=leejinagood)]([벨로그링크](https://velog.io/@leejinagood/%EC%9B%B9-%EA%B8%B0%EB%B3%B8-%EC%A7%80%EC%8B%9D-1))
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 <!--
 **leejinagood/leejinagood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
